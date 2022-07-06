@@ -32,3 +32,76 @@ body{
     padding: 19px;
     font-size: 25px;
 }
+
+.middle_header_text {
+    text-align: center;
+    padding: 10%;
+}
+
+.text {
+    line-height: 49px;
+    font-size: 75px;} 
+    .text p {
+        font-size: 20px;
+        color: gray;
+        margin-left: 9%;}
+    .img-slide {
+        display: flex;
+        margin-left: 17%;
+    }     
+   .slide-1{ width: 5%;
+    padding: 75px;
+    background-color: #edf2f7;
+    margin-right: 16px;
+    border-radius: 10px;}
+  
+
+    .slide-2 {
+        width: 5%;
+        padding: 75px;
+        background-color: #edf2f7;
+        margin-right: 16px;
+        border-radius: 10px;
+        border: 5px solid #ed9090;
+    }
+    .slide-3 {
+        width: 5%;
+        padding: 75px;
+        background-color: #edf2f7;
+        margin-right: 16px;
+        border-radius: 10px}
+    .slide-4 {
+        width: 5%;
+        padding: 75px;
+        background-color: #edf2f7;
+        margin-right: 16px;
+        border-radius: 10px
+    
+    }
+    .slide-5 {
+        width: 5%;
+        padding: 75px;
+        background-color: #edf2f7;
+        margin-right: 16px;
+        border-radius: 10px
+    
+    }
+    #slide-pra {
+        color: #504b4b;
+        font-size: 28px;
+        text-align: center;
+        display: inline-block;
+    }
+   #input-text{
+    
+        border: #e7e5e2;
+        font-size: 33px;
+        color: #e5dcdc;
+        border-bottom: 2px solid #dbd9d9;
+        width: 66%;
+        text-align: center;
+        padding: 17px;
+    }
+    .input {
+        padding: 41px;
+    }
