@@ -2,6 +2,8 @@ body{
     margin:0;
     font-family: 'Lato', sans-serif;
     font-family: 'Poppins', sans-serif;
+    
+    
 }
 .top-header {
     background-image: url(images/c69c2f1e-1c7d-4d65-b210-28531515b1b2.jpg);
@@ -63,6 +65,7 @@ body{
         margin-right: 16px;
         border-radius: 10px;
         border: 5px solid #ed9090;
+        
     }
     .slide-3 {
         width: 5%;
@@ -91,6 +94,10 @@ body{
         font-size: 28px;
         text-align: center;
         display: inline-block;
+        
+    }
+    span{
+        color: #c94545;
     }
    #input-text{
     
@@ -104,4 +111,125 @@ body{
     }
     .input {
         padding: 41px;
+    }
+    .last-top-header {
+        text-align: center;
+        padding: 9px;
+        width: 100%;
+    }
+    
+    .donation_part {
+        font-size: 41px;
+    }
+    
+    .donation_part p {
+        width: 41%;
+        font-size: 22px;
+        color: gray;
+        margin-left: 29%;
+    }
+    .dontation-common-div {
+        display: flex;
+        width: 58%;
+        padding: 14px;
+        margin:0 auto;
+    }
+    
+    .slide-donation-1 {
+        margin-right: 19px;
+        background-color: #d2e3e5;
+        padding: 45px;
+        text-align: center;
+        border-radius: 6px;
+    }
+    .slide-donation-2 {
+        margin-right: 19px;
+        background-color: rgb(255 202 220);
+        padding: 45px;
+        text-align: center;
+        border-radius: 6px;
+    }
+    .slide-donation-3 {
+        margin-right: 19px;
+        background-color:wheat;
+        padding: 45px;
+        text-align: center;
+        border-radius: 6px;
+    }
+
+    .donation_extra {
+        display: flex;
+        width: 100%;
+        margin-top: 69px;
+    }
+    #donation-extra-imgae {
+        width: 53%;
+        height: 100%;
+        margin-left: 49%;
+    }
+    .dontaion-importans {
+        width: 28%;
+        text-align: center;
+        padding: 15px;
+        margin-left: 7%;
+    }
+    #extra-headding {
+        font-size: 218%;
+    }
+    .contact-text {
+        text-align: center;
+        padding: 77px;
+    }
+    
+    #get-upd-headding {
+        font-size: 4rem;
+    }
+    #contact-pragrap {
+        font-size: 23px;
+        width: 34%;
+        margin: 0 auto;
+        color: gray;
+    }
+    .contact-email {
+        background-color: #edd3a3;
+        padding: 89px;
+        width: 45%;
+        margin: 0 auto;
+        border-radius: 8px;
+    }
+    #email {
+        border: none;
+        background-color: gainsboro;
+        padding: 11px;
+        border-radius: 5px;
+        font-size: 26px;
+        margin-left: 17%;
+    }
+    #sub {
+        border: none;
+        background-color: #ef6c54;
+        color: white;
+        padding: 11px;
+        width: 22%;
+        margin-left: -2%;
+        font-size: 25px;
+        border-radius: 9px;
+        text-align: center;
+    }
+    footer {
+        background-color: black;
+        
+        padding: 37px;
+        text-align: center;
+        margin-top: 8%;
+    }
+    
+    #footer-headding {
+        color: #ff6d6d;
+        padding: 6px;
+        font-size: 47px;
+    }
+    #footer-pragrap {
+        color: gainsboro;
+        font-size: 24px;
     }
